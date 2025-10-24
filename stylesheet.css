@@ -1,8 +1,8 @@
 @font-face {
-    font-family: 'Pincoyablack';
-    src: url('Pincoyablack-Black.woff2') format('woff2'),
-        url('Pincoyablack-Black.woff') format('woff');
-    font-weight: 900;
+    font-family: 'Artely Inks';
+    src: url('ArtelyInks.woff2') format('woff2'),
+        url('ArtelyInks.woff') format('woff');
+    font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
